@@ -1,0 +1,25 @@
+.media {
+    display: flex;
+    flex-direction: row;
+}
+
+.home-title {
+    width: 25px;
+    height: 100px;
+    color: #121010;
+}
+
+.text {
+    width: 563px;
+    height: 324px;
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px
+}
+
+.img {
+    width: 329px;
+    height: 379px;
+}
